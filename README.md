@@ -1,4 +1,5 @@
 # Machine-Learning
 
-KNN classifier
-Titanic dataset logictic regression
+1) KNN classifier
+
+2) Titanic dataset logictic regression
